@@ -29,7 +29,8 @@ This project focuses on setting up a **virtual cybersecurity and penetration-tes
 The purpose of the lab is to create a controlled environment where cybersecurity tools, network scanning, reconnaissance, vulnerability assessment, and other security-testing activities can be performed safely and repeatedly.
 
 The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
-
+# SCREENSHOT
+![](Screenshot%20(1).png)
 ---
 
 
@@ -46,7 +47,8 @@ The main objectives of this project are to:
 - Take a clean VM snapshot for recovery.
 - Document the complete setup process.
 - Prepare the environment for future cybersecurity projects.
-
+# SCREENSHOT
+![](Screenshot%20(5).png)
 ---
 
 ## 🛡️ Purpose of the Lab
@@ -62,7 +64,8 @@ It can be used for activities such as:
 - Web security testing
 - Exploitation practice
 - Security-tool experimentation
-
+# SCREENSHOT 
+![](Screenshot%20(3).png)
 ⚠️ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
 ---
